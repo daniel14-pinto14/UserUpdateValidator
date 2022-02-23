@@ -1,0 +1,10 @@
+insert into ADDRESS (id,city,post_Code,state,street) values (1, 'Sydney', 2148, 'NSW', 'Martin');
+insert into ADDRESS (id,city,post_Code,state,street) values (2, 'Melbourne', 2148, 'NSW', 'Martin');
+insert into ADDRESS (id,city,post_Code,state,street) values (3, 'perth', 2148, 'NSW', 'Martin');
+insert into ADDRESS (id,city,post_Code,state,street) values (4, 'darwin', 2148, 'NSW', 'Martin');
+insert into ADDRESS (id,city,post_Code,state,street)  values (5, 'brisbane', 2148, 'NSW', 'Martin');
+insert into USER_DETAILS (id,first_name,gender,last_name,title,address_id) values (1, 'Daniel', 'M', 'Pinto', 'MR' ,1);
+insert into USER_DETAILS (id,first_name,gender,last_name,title,address_id)  values (2, 'Martin', 'M', 'Pinto', 'MR' ,2);
+insert into USER_DETAILS (id,first_name,gender,last_name,title,address_id)  values (3, 'James', 'M', 'Pinto', 'MR' ,3);
+insert into USER_DETAILS (id,first_name,gender,last_name,title,address_id)  values (4, 'John', 'M', 'Pinto', 'MR' ,4);
+insert into USER_DETAILS (id,first_name,gender,last_name,title,address_id)  values (5, 'Derick', 'M', 'Pinto', 'MR' ,5);
